@@ -1,12 +1,15 @@
 # README  
 
-source code compiled in ./cs471Final/CPUSCHED/src  
+while in location ./cs471/CPUSCHED  
+-------------------------------------  
+
+source code compiled in ./src  
 using command ->  javac ./*.java -d ../executable  
 
-----------------------------------------------------------------------  
+----------------------------------------------------------------------   
 
 To run program:  
-cd into ./cs471Final/CPUSCHED/executable/  
+cd into ./executable  
 
 commands for ...  
 FIFO ->   
