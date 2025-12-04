@@ -1,11 +1,14 @@
-# README
-source code compiled using ->  
-                                javac ./*.java -d ../executable  
-    compiled in ./cs471Final/CPUSCHED/src  
+# README  
+
+source code compiled in ./cs471Final/CPUSCHED/src  
+using command ->  javac ./*.java -d ../executable  
+
 ----------------------------------------------------------------------  
-cd into ./cs471Final/CPUSCHED/executable/  
 
 To run program:  
+cd into ./cs471Final/CPUSCHED/executable/  
+
+commands for ...  
 FIFO ->   
         java src.CPUScheduler ../inputs/inputSample.txt FIFO  
 
