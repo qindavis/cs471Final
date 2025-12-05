@@ -38,7 +38,7 @@ Each line specifies a simulation run (total of 9) with the following fields:
 
     <num_producers> <num_consumers> <buffer_size> <seed>
 
-Sample input file contents:
+Sample input file contents:  
     2 2 50 12345  
     2 5 50 12345  
     2 10 50 12345  
