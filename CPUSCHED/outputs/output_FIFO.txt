@@ -1,0 +1,24 @@
+Scheduling mode: FIFO
+Number of processes: 10
+
+  PID      ARR    BURST    START   FINISH
+    1        0        5        0        5
+    2        2        3        5        8
+    3        4        7        8       15
+    4        4        2       15       17
+    5        5        4       17       21
+    6        6        6       21       27
+    7        8        3       27       30
+    8        8        9       30       39
+    9       10        5       39       44
+   10       13        2       44       46
+
+Statistics for the Run
+----------------------
+Total burst time: 46
+Total elapsed time: 46
+Throughput: 0.217391
+CPU Utilization: 1.000000
+Average waiting time: 14.600000
+Average turnaround time: 19.200000
+Average response time: 14.600000
