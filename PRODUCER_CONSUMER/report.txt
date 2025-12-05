@@ -1,0 +1,285 @@
+===== RUN 1 =====
+Producers: 2, Consumers: 2, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 2, consumers (c): 2
+Total items produced (target): 1000
+Total aggregate sales: $491706.39
+Elapsed time (ms): 11902.85
+Per-store totals:
+  store 1 : $251212.95
+  store 2 : $240493.44
+Month totals:
+  01 : $38752.73
+  02 : $39986.88
+  03 : $51951.90
+  04 : $40357.97
+  05 : $46099.53
+  06 : $35447.63
+  07 : $38311.15
+  08 : $38490.31
+  09 : $48782.33
+  10 : $37262.96
+  11 : $38883.05
+  12 : $37379.96
+==========================
+
+
+
+===== RUN 2 =====
+Producers: 2, Consumers: 5, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 2, consumers (c): 5
+Total items produced (target): 1000
+Total aggregate sales: $491706.39
+Elapsed time (ms): 11885.11
+Per-store totals:
+  store 1 : $251212.95
+  store 2 : $240493.44
+Month totals:
+  01 : $38752.73
+  02 : $39986.88
+  03 : $51951.90
+  04 : $40357.97
+  05 : $46099.53
+  06 : $35447.63
+  07 : $38311.15
+  08 : $38490.31
+  09 : $48782.33
+  10 : $37262.96
+  11 : $38883.05
+  12 : $37379.96
+==========================
+
+
+
+===== RUN 3 =====
+Producers: 2, Consumers: 10, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 2, consumers (c): 10
+Total items produced (target): 1000
+Total aggregate sales: $491706.39
+Elapsed time (ms): 11900.27
+Per-store totals:
+  store 1 : $251212.95
+  store 2 : $240493.44
+Month totals:
+  01 : $38752.73
+  02 : $39986.88
+  03 : $51951.90
+  04 : $40357.97
+  05 : $46099.53
+  06 : $35447.63
+  07 : $38311.15
+  08 : $38490.31
+  09 : $48782.33
+  10 : $37262.96
+  11 : $38883.05
+  12 : $37379.96
+==========================
+
+
+
+===== RUN 4 =====
+Producers: 5, Consumers: 2, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 5, consumers (c): 2
+Total items produced (target): 1000
+Total aggregate sales: $480030.88
+Elapsed time (ms): 4780.52
+Per-store totals:
+  store 1 : $95460.39
+  store 2 : $92345.90
+  store 3 : $105679.14
+  store 4 : $94053.67
+  store 5 : $92491.78
+Month totals:
+  01 : $40675.76
+  02 : $42939.40
+  03 : $53554.98
+  04 : $44358.52
+  05 : $44434.53
+  06 : $30963.82
+  07 : $42680.58
+  08 : $33898.45
+  09 : $40682.81
+  10 : $34883.82
+  11 : $43132.69
+  12 : $27825.51
+==========================
+
+
+
+===== RUN 5 =====
+Producers: 5, Consumers: 5, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 5, consumers (c): 5
+Total items produced (target): 1000
+Total aggregate sales: $480268.83
+Elapsed time (ms): 4772.81
+Per-store totals:
+  store 1 : $94758.42
+  store 2 : $92345.90
+  store 3 : $105679.14
+  store 4 : $94053.67
+  store 5 : $93431.71
+Month totals:
+  01 : $40675.76
+  02 : $42939.40
+  03 : $53554.98
+  04 : $44358.52
+  05 : $44434.53
+  06 : $30963.82
+  07 : $41978.61
+  08 : $33898.45
+  09 : $40682.81
+  10 : $35823.75
+  11 : $43132.69
+  12 : $27825.51
+==========================
+
+
+
+===== RUN 6 =====
+Producers: 5, Consumers: 10, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 5, consumers (c): 10
+Total items produced (target): 1000
+Total aggregate sales: $480268.83
+Elapsed time (ms): 4775.89
+Per-store totals:
+  store 1 : $94758.42
+  store 2 : $92345.90
+  store 3 : $105679.14
+  store 4 : $94053.67
+  store 5 : $93431.71
+Month totals:
+  01 : $40675.76
+  02 : $42939.40
+  03 : $53554.98
+  04 : $44358.52
+  05 : $44434.53
+  06 : $30963.82
+  07 : $41978.61
+  08 : $33898.45
+  09 : $40682.81
+  10 : $35823.75
+  11 : $43132.69
+  12 : $27825.51
+==========================
+
+
+
+===== RUN 7 =====
+Producers: 10, Consumers: 2, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 10, consumers (c): 2
+Total items produced (target): 1000
+Total aggregate sales: $483190.99
+Elapsed time (ms): 2470.73
+Per-store totals:
+  store 1 : $46514.23
+  store 2 : $47342.93
+  store 3 : $53364.84
+  store 4 : $48233.91
+  store 5 : $46137.25
+  store 6 : $51244.82
+  store 7 : $46888.95
+  store 8 : $42313.12
+  store 9 : $52276.17
+  store 10 : $48874.76
+Month totals:
+  01 : $35974.76
+  02 : $49799.51
+  03 : $39905.94
+  04 : $43186.27
+  05 : $48657.35
+  06 : $34192.13
+  07 : $39258.58
+  08 : $41579.64
+  09 : $39821.29
+  10 : $36273.56
+  11 : $32751.93
+  12 : $41790.02
+==========================
+
+
+
+===== RUN 8 =====
+Producers: 10, Consumers: 5, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 10, consumers (c): 5
+Total items produced (target): 1000
+Total aggregate sales: $482567.67
+Elapsed time (ms): 2466.36
+Per-store totals:
+  store 1 : $47292.02
+  store 2 : $47342.93
+  store 3 : $53364.84
+  store 4 : $48233.91
+  store 5 : $46137.25
+  store 6 : $51244.82
+  store 7 : $46888.95
+  store 8 : $42412.50
+  store 9 : $52276.17
+  store 10 : $47374.28
+Month totals:
+  01 : $36067.76
+  02 : $49799.51
+  03 : $39905.94
+  04 : $43186.27
+  05 : $47841.65
+  06 : $34192.13
+  07 : $39258.58
+  08 : $41579.64
+  09 : $39821.29
+  10 : $36372.95
+  11 : $32751.93
+  12 : $41790.02
+==========================
+
+
+
+===== RUN 9 =====
+Producers: 10, Consumers: 10, Buffer: 50, Seed: 12345
+
+===== GLOBAL SUMMARY =====
+Total producers (p): 10, consumers (c): 10
+Total items produced (target): 1000
+Total aggregate sales: $482773.53
+Elapsed time (ms): 2468.92
+Per-store totals:
+  store 1 : $46514.23
+  store 2 : $47342.93
+  store 3 : $53364.84
+  store 4 : $48233.91
+  store 5 : $46436.11
+  store 6 : $51244.82
+  store 7 : $46888.95
+  store 8 : $42412.50
+  store 9 : $52276.17
+  store 10 : $48059.06
+Month totals:
+  01 : $35974.76
+  02 : $50098.36
+  03 : $39905.94
+  04 : $43186.27
+  05 : $47841.65
+  06 : $34192.13
+  07 : $39258.58
+  08 : $41579.64
+  09 : $39821.29
+  10 : $36372.95
+  11 : $32751.93
+  12 : $41790.02
+==========================
+
+
+
