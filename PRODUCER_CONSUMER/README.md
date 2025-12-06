@@ -54,6 +54,7 @@ Output file contents:
 1. Run number and configuration
 2. Local consumer summaries
 3. Global summary
+
 Notes:
 ------
 - The seed is used for reproducibility of random numbers (it can be any number).
