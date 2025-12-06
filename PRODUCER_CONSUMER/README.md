@@ -25,7 +25,7 @@ This will generate the executable `ProducerConsumer.class`.
 Make sure `sample_input.txt` is in the same directory as `ProducerConsumer.class`.
 Run the program with:
 
-    'java ProducerConsumer'
+    java ProducerConsumer
 
 The program will:
 - Read the list of runs from `sample_input.txt`
@@ -54,6 +54,7 @@ Output file contents:
 1. Run number and configuration
 2. Local consumer summaries
 3. Global summary
+
 Notes:
 ------
 - The seed is used for reproducibility of random numbers (it can be any number).
