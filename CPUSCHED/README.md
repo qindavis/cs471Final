@@ -56,13 +56,15 @@ These .class files are your executable program.
 How to Run  
 ------------------------  
 Change directory into the executable folder:  
-cd executable  
+`cd ../executable`  
 Run the program using:  
 
 FIFO Mode  
+
     java src.CPUScheduler ../inputs/inputSample.txt FIFO  
 
 SJF Mode  
+
     java src.CPUScheduler ../inputs/inputSample.txt SJF  
   
   
@@ -78,7 +80,9 @@ The program will:
 Sample Input Format (inputs/inputSample.txt)  
 ----------------------------------------------  
 Each line contains:  
+
     <arrival_time> <burst_time>  
+    
 Example:  
   
     0 5  
