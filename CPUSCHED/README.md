@@ -14,7 +14,8 @@ CPUSCHED/
 │       └── CPUScheduler$Proc.class  
 │  
 ├── inputs/  
-│   └── inputSample.txt          <- Sample process input file  
+│   ├──  inputSample.txt          <- Sample process input file  
+|   └── datafile-txt.txt         <- provided data input file
 │  
 └── outputs/  
     ├── output_FIFO.txt          <- FIFO run output  
