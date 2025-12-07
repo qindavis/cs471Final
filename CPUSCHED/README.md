@@ -61,11 +61,11 @@ Run the program using:
 
 FIFO Mode  
 
-    java src.CPUScheduler ../inputs/inputSample.txt FIFO  
+    java src.CPUScheduler ../inputs/datafile-txt.txt FIFO  
 
 SJF Mode  
 
-    java src.CPUScheduler ../inputs/inputSample.txt SJF  
+    java src.CPUScheduler ../inputs/datafile-txt.txt SJF  
   
   
 The program will:  
@@ -77,7 +77,7 @@ The program will:
     - outputs/output_SJF.txt  
     (depending on the selected mode)  
 
-Sample Input Format (inputs/inputSample.txt)  
+Sample Input Format (inputs/datafile-txt.txt)  
 ----------------------------------------------  
 Each line contains:  
 
